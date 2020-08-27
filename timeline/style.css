@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+	background-color: white;
+}
+.dashboard {
+	margin: 0 auto;
+    border-radius: 5px;
+    border:1px solid black;
+}
